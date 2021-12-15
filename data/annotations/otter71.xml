@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset2</folder>
+	<filename>otter71.jpg</filename>
+	<path>/Users/s1756519b/as1/data/Dataset2/otter71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>otter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>78</ymin>
+			<xmax>351</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>
